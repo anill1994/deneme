@@ -1,0 +1,2 @@
+# deneme
+Eğitim amaçlı
